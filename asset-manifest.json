@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Mammas-hemsida/static/css/main.d36e7e65.css",
-    "main.js": "/Mammas-hemsida/static/js/main.b4057743.js",
-    "static/media/mammaKontakt.jpeg": "/Mammas-hemsida/static/media/mammaKontakt.eb8ce40da92ce58fb504.jpeg",
-    "static/media/mammasHemsida.jpeg": "/Mammas-hemsida/static/media/mammasHemsida.4a5f6ae2a95d92933dc9.jpeg",
-    "static/media/gravid.jpeg": "/Mammas-hemsida/static/media/gravid.3158b8b99e629fcf191a.jpeg",
-    "static/media/test.jpeg": "/Mammas-hemsida/static/media/test.c34b88569fa46f552e6f.jpeg",
-    "static/media/sten.jpeg": "/Mammas-hemsida/static/media/sten.b191ddf0adfb05b353a4.jpeg",
-    "static/media/trauma.webp": "/Mammas-hemsida/static/media/trauma.f8df6ef689b7c9e3bfaa.webp",
-    "static/media/trauma2.jpeg": "/Mammas-hemsida/static/media/trauma2.e3ea0cd4a13e15989eb3.jpeg",
-    "static/media/stoed.jpeg": "/Mammas-hemsida/static/media/stoed.4e8491b7185ec6bcd32a.jpeg",
-    "static/media/stöd.jpeg": "/Mammas-hemsida/static/media/stöd.d6e48c57c64d8bb023f3.jpeg",
-    "static/media/logos.png": "/Mammas-hemsida/static/media/logos.b882233519fe0006c871.png",
-    "static/media/logo.jpg": "/Mammas-hemsida/static/media/logo.ea7d6a2582541e183eb0.jpg",
-    "index.html": "/Mammas-hemsida/index.html",
-    "main.d36e7e65.css.map": "/Mammas-hemsida/static/css/main.d36e7e65.css.map",
-    "main.b4057743.js.map": "/Mammas-hemsida/static/js/main.b4057743.js.map"
+    "main.css": "/static/css/main.d36e7e65.css",
+    "main.js": "/static/js/main.03525791.js",
+    "static/media/mammaKontakt.jpeg": "/static/media/mammaKontakt.eb8ce40da92ce58fb504.jpeg",
+    "static/media/mammasHemsida.jpeg": "/static/media/mammasHemsida.4a5f6ae2a95d92933dc9.jpeg",
+    "static/media/gravid.jpeg": "/static/media/gravid.3158b8b99e629fcf191a.jpeg",
+    "static/media/test.jpeg": "/static/media/test.c34b88569fa46f552e6f.jpeg",
+    "static/media/sten.jpeg": "/static/media/sten.b191ddf0adfb05b353a4.jpeg",
+    "static/media/trauma.webp": "/static/media/trauma.f8df6ef689b7c9e3bfaa.webp",
+    "static/media/trauma2.jpeg": "/static/media/trauma2.e3ea0cd4a13e15989eb3.jpeg",
+    "static/media/stoed.jpeg": "/static/media/stoed.4e8491b7185ec6bcd32a.jpeg",
+    "static/media/stöd.jpeg": "/static/media/stöd.d6e48c57c64d8bb023f3.jpeg",
+    "static/media/logos.png": "/static/media/logos.b882233519fe0006c871.png",
+    "static/media/logo.jpg": "/static/media/logo.ea7d6a2582541e183eb0.jpg",
+    "index.html": "/index.html",
+    "main.d36e7e65.css.map": "/static/css/main.d36e7e65.css.map",
+    "main.03525791.js.map": "/static/js/main.03525791.js.map"
   },
   "entrypoints": [
     "static/css/main.d36e7e65.css",
-    "static/js/main.b4057743.js"
+    "static/js/main.03525791.js"
   ]
 }
