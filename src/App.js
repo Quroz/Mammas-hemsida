@@ -9,7 +9,7 @@ import Emdr from "./components/Emdr";
 
 function App() {
   return (
-    <div>
+    <div className="overflow-x-hidden">
        <Navbar/>
        <StartPage/>
        <Information/>

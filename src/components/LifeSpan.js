@@ -3,7 +3,7 @@ import React from 'react'
 function LifeSpan() {
   return (
     <div className='mt-12 py-16 w-[90%] flex flex-col items-center mx-auto bg-cover text-gray-700' id = "lsi">
-            <h1 className='text-4xl font-poppins text-black'>Lifespan integration</h1>
+            <h1 className='text-4xl font-poppins text-black'>Om Lifespan integration</h1>
             <div className='h-[1px] bg-black w-full'/>
             <p className='max-w-[700px] mt-12 text-md md:text-xl font-poppins'>
 Läker utan att återtraumatisera

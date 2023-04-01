@@ -1,6 +1,7 @@
 import React from 'react'
 import person from "../assets/test.jpeg"
 import mamma from "../assets/mammasHemsida.jpeg"
+import mammaStartsida from "../assets/mammaStartsida.jpeg"
 import gravid from "../assets/gravid.jpeg"
 import trauma from "../assets/trauma.webp"
 import stöd from "../assets/stöd.jpeg"
@@ -12,7 +13,7 @@ import { FiBox } from "react-icons/fi";
 function StartPage() {
   return (
     <div className='min-h-screen bg-[#fbfbf1] flex flex-col w-[90%] mx-auto'>
-        <div >
+        <div>
              <div className='flex flex-col justify-center items-start absolute w-full h-[600px] pl-12'>
                     <div className='flex flex-col my-4 text-center mr-16 gap-4 text-white'>
                         <h1 className='text-5xl font-thin text-center font-poppins'>Ann Wetterdal</h1>
@@ -26,11 +27,11 @@ function StartPage() {
               <img src = {sten} alt = "/" className='object-cover w-full h-[600px] '/>
               {/*<div className='w-full h-[600px] bg-gray-500'/>*/}
         </div>
-        <div className='flex flex-col md:flex-row justify-between items-center w-full py-20 min-h-[700px] max-w-[1300px]'>
-            <div className='bg-yellow-500'>
-                 <img src = {mamma} alt = "/" className='object-cover rounded-md max-h-[641px] object-top w-[490px]'/>
+        <div className='flex flex-col lg:flex-row justify-between items-center w-full py-20 min-h-[700px] max-w-[1300px]'>
+            <div>
+                 <img src = {mammaStartsida} alt = "/" className='object-cover rounded-md max-h-[641px] object-top w-[490px]'/>
             </div>
-            <div className='flex flex-col gap-8 font-poppins w-full md:w-[50%] mr-12 overflow-hidden mx-auto md:mx-0' id = "about">
+            <div className='flex flex-col gap-8 font-poppins w-full lg:w-[50%] mr-12 overflow-hidden mx-auto md:mx-0' id = "about">
                 <h1 className='text-4xl text-center mt-7'>Ann Wetterdal</h1>
                 <div className='h-[1px] w-full bg-black'/>
                 <h2 className='text-2xl text-center'>Samtalsterapeut och leg.barnmorska</h2>
@@ -38,18 +39,24 @@ function StartPage() {
                     <p className='text-md md:text-xl'>
                             Jag är leg barnmorska, KBT steg 1 terapeut , Lifespan integration terapeut och EMDR terapeut.
 
-                            Jag har under många år arbetat med gravida kvinnor/par som har haft en stark rädsla för att föda barn, har haft psykisk ohälsa, orostankar runt anknytningen till de väntade barnet. Tankar om relationen och tankar om hur föräldraskapet kommer att påverkas av egna barndomsupplevelser. Jag har även arbetat med kvinnor som har haft en svår förlossningsupplevelse. 
+                            Jag har lång erfarenhet av terapeutiska samtal vid ångest, nedstämdhet, barndomstrauma och annat trauma, relationstrauma bla.
+                            Jag arbetar även för WONSA (World of no sexuell abuse) med traumaterapi för kvinnor som varit utsatta för sexuellt våld.
+                    </p>
+                    <p className='text-md md:text-xl mt-4'>
+              
+
+                            Jag har under många år arbetat med gravida kvinnor/par som har haft en stark rädsla för att föda barn, har haft psykisk ohälsa, orostankar runt anknytningen till de väntade barnet. Tankar om relationen och tankar om hur föräldraskapet kommer att påverkas av egna barndomsupplevelser. Jag har även arbetat med kvinnor som har haft en svår förlossningsupplevelse.
+
+                    
 
                     </p> 
 
-                <p className='mt-5 text-md md:text-xl'>Jag har lång erfarenhet av terapeutiska samtal vid ångest, nedstämdhet, barndomstrauma och annat trauma, relationstrauma bla.
+                <p className='mt-5 text-md md:text-xl'>
 
-                Jag arbetar även för WONSA (World of no sexuell abuse) med traumaterapi för kvinnor som varit utsatta för sexuellt våld.
+                    Jag arbetar med tekniker från Traumaanpassad yoga.
 
-                Jag arbetar även med tekniker från Traumaanpassad yoga.
-
-                Jag är medlem i sfKBT och i EMDRföreningen. Jag arbetar under handledning och under sekretess.
-                    </p>
+                    Jag är medlem i sfKBT och i EMDRföreningen, och arbetar under handledning och sekretess.
+                </p>
                </div>
             </div>
 
