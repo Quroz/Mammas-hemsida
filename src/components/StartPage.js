@@ -14,7 +14,7 @@ function StartPage() {
   return (
     <div className='min-h-screen bg-[#fbfbf1] flex flex-col w-[90%] mx-auto'>
         <div>
-             <div className='flex flex-col justify-center items-start absolute w-full h-[600px] pl-12'>
+             <div className='flex flex-col justify-center items-center md:items-start absolute w-full h-[600px] pl-12'>
                     <div className='flex flex-col my-4 text-center mr-16 gap-4 text-white'>
                         <h1 className='text-5xl font-thin text-center font-poppins'>Ann Wetterdal</h1>
                         <div>

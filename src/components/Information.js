@@ -8,10 +8,10 @@ import stoed from "../assets/stoed.jpeg"
 
 function Information() {
   return (
-    <div className='flex flex-col flex-1 w-[90%] h-full font-poppins  mx-auto justify-between'>
+    <div className='flex flex-col flex-1 w-[90%] h-full font-poppins  mx-auto justify-between overflow-x-hidden'>
     
     
-    <div className='w-full h-full grid md:grid-cols-3 grid-rows-none  justify-items-between py-20 px-8 gap-4 '>
+    <div className='w-full h-full grid md:grid-cols-3 grid-rows-none  justify-items-between py-20 gap-4 '>
     
     
         <div className='flex flex-col items-center'>
