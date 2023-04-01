@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.d36e7e65.css",
-    "main.js": "/static/js/main.03525791.js",
+    "main.css": "/static/css/main.6631fef8.css",
+    "main.js": "/static/js/main.a938a23e.js",
     "static/media/mammaKontakt.jpeg": "/static/media/mammaKontakt.eb8ce40da92ce58fb504.jpeg",
+    "static/media/mammaStartsida.jpeg": "/static/media/mammaStartsida.b777106613b58960508a.jpeg",
     "static/media/mammasHemsida.jpeg": "/static/media/mammasHemsida.4a5f6ae2a95d92933dc9.jpeg",
     "static/media/gravid.jpeg": "/static/media/gravid.3158b8b99e629fcf191a.jpeg",
     "static/media/test.jpeg": "/static/media/test.c34b88569fa46f552e6f.jpeg",
@@ -14,11 +15,11 @@
     "static/media/logos.png": "/static/media/logos.b882233519fe0006c871.png",
     "static/media/logo.jpg": "/static/media/logo.ea7d6a2582541e183eb0.jpg",
     "index.html": "/index.html",
-    "main.d36e7e65.css.map": "/static/css/main.d36e7e65.css.map",
-    "main.03525791.js.map": "/static/js/main.03525791.js.map"
+    "main.6631fef8.css.map": "/static/css/main.6631fef8.css.map",
+    "main.a938a23e.js.map": "/static/js/main.a938a23e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d36e7e65.css",
-    "static/js/main.03525791.js"
+    "static/css/main.6631fef8.css",
+    "static/js/main.a938a23e.js"
   ]
 }
