@@ -9,7 +9,7 @@ function ContactMe() {
               <img src = {mamma} alt = "/" className='object-cover rounded-md max-h-[500px] object-top w-[490px] mx-auto'/>
               <div className='w-full flex items-start flex-col my-20 gap-4 ml-4 lg:ml-4'>
                   <p className='font-poppins text-xl md:text-2xl'>Välkommen till mig på Artillerigatan 28 på Östermalm i Stockholm.</p>
-                  <p className='font-poppins text-xl md:text-2xl'>Om du vill boka tid eller har några funderingar, kontakta mig på: 07390819936 (helst sms) eller
+                  <p className='font-poppins text-xl md:text-2xl'>När du vill boka tid eller har några funderingar, kontakta mig på: 0739819936 (helst sms) eller
                       via mail på ann.wetterdal@gmail.com
                   </p>
               </div>

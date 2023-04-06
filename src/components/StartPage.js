@@ -37,15 +37,15 @@ function StartPage() {
                 <h2 className='text-2xl text-center'>Samtalsterapeut och leg.barnmorska</h2>
                 <div className='text-gray-700'>
                     <p className='text-md md:text-xl'>
-                            Jag är leg barnmorska, KBT steg 1 terapeut , Lifespan integration terapeut och EMDR terapeut.
+                            Jag är leg barnmorska, KBT steg 1 terapeut , Lifespan integration och EMDR terapeut.
 
-                            Jag har lång erfarenhet av terapeutiska samtal vid ångest, nedstämdhet, barndomstrauma och annat trauma, relationstrauma bla.
+                            Jag har lång erfarenhet av terapeutiska samtal vid ångest, nedstämdhet, barndomstrauma, relationstrauma och annan typ av trauma.
                             Jag arbetar även för WONSA (World of no sexuell abuse) med traumaterapi för kvinnor som varit utsatta för sexuellt våld.
                     </p>
                     <p className='text-md md:text-xl mt-4'>
               
 
-                            Jag har under många år arbetat med gravida kvinnor/par som har haft en stark rädsla för att föda barn, har haft psykisk ohälsa, orostankar runt anknytningen till de väntade barnet. Tankar om relationen och tankar om hur föräldraskapet kommer att påverkas av egna barndomsupplevelser. Jag har även arbetat med kvinnor som har haft en svår förlossningsupplevelse.
+                            Jag har under många år arbetat med gravida kvinnor/par som har haft en stark rädsla för att föda barn, har haft psykisk ohälsa och orostankar runt anknytningen till de väntade barnet. Tankar om relationen och tankar om hur föräldraskapet kommer att påverkas av egna barndomsupplevelser. Jag har även arbetat med kvinnor som har haft en svår förlossningsupplevelse.
 
                     
 
@@ -53,9 +53,9 @@ function StartPage() {
 
                 <p className='mt-5 text-md md:text-xl'>
 
-                    Jag arbetar med tekniker från Traumaanpassad yoga.
+                    Jag arbetar med tekniker från traumaanpassad yoga.
 
-                    Jag är medlem i sfKBT och i EMDRföreningen, och arbetar under handledning och sekretess.
+                    Det vi samtalar om under terapin är självklart under sekretess.
                 </p>
                </div>
             </div>
